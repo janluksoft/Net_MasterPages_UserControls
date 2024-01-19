@@ -8,13 +8,13 @@ It is often necessary for each of the many pages of a website to have a similar 
 In the past, developers created consistent websites using custom controls, CSS, JavaScript and it was difficult.
 That is why the following techniques were created: Razor-Page and the Master-Page described above.
 
-![](PWebAppMaster\Image\MasterPares3.png)
+![](PWebAppMaster/Image/MasterPares3.png)
 
 ## Description of Master-Pages:
 
 Master Pages are used when user needs a consistent look and behavior over all web pages in an application. Master pages provide a template for all other pages in an application.
 
-![](PWebAppMaster\Image\Master_schema2.png)
+![](PWebAppMaster/Image/Master_schema2.png)
 
 The master pages define placeholders for the content, which are overridden for the content. The result is combination of master and content page. Every master page has one or more content pages in an application.
 
